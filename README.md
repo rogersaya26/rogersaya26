@@ -71,14 +71,12 @@ _____
 
 #### Algunos de mis proyectos:
 
-| notFoundResponsive  | rockPaperScissors  | toDoSimple  |
+| Api Dog's React.js  | FullStack App List Employee  | App Tareas React 3Hook's |
 |---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="/images/404.png" width="250" height="200"/></a> |  <a href="https://codepen.io/carlossalvadordiaz/pen/bGeXeGq" target="_blank"> <img src="/images/rps.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="250" height="200"/></a>  |
+| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-thedog-api.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> |
 
 
 ## ¿Hablamos?☕️
-
-<a href="https://www.linkedin.com/in/roger-jimenez-3929149b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=white"></a>
-
+<a href="https://www.linkedin.com/in/roger-jimenez-3929149b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%23694640?logo=linkedin&logoColor=blue"></a>
 <a href="mailto:rogersaya@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-Email-%23694640?logo=gmail&logoColor=white"></a>  || ###Rogersaya@gmail.com 📭 
 
