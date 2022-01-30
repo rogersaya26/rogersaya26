@@ -16,7 +16,7 @@
 ![ApacheMaven](https://img.shields.io/badge/-ApacheMaven-%23f89d71?logo=ApacheMaven&logoColor=white)
 ![Npm](https://img.shields.io/badge/-npm-%23748074?logo=npm&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-%23353b35?logo=MySQL&logoColor=white)
-
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-%23694640?logo=MicrosoftSQLServer&logoColor=white)
 
 #### Actualmente me dedico a:
 
@@ -38,7 +38,7 @@ ___
  
 ### Rogersaya@gmail.com 📭 
 
-##Portafolio:
+## Portafolio:
 https://rogersaya26.github.io/rogerj-xfolio/
 
 
