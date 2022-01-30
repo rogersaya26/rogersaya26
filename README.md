@@ -73,7 +73,7 @@ _____
 
 | Api Dog's React.js  | FullStack App List Employee  | App Tareas React 3Hook's |
 |---|---|---|
-| <a href="https://github.com/carlossalvadordiaz/404-not-found" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-thedog-api.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> |
+| <a href="https://brave-varahamihira-e148be.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-thedog-api.png" width="250" height="200"/></a> | <a href="https://react-front-employee.herokuapp.com/employees" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/front-react-employees-list.png" width="250" height="200"/></a> | <a href="https://pedantic-benz-3ef861.netlify.app/" target="_blank"> <img src="https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/app-tareas.png" width="250" height="200"/></a> |
 
 
 ## ¿Hablamos?☕️
