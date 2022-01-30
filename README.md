@@ -5,11 +5,16 @@
 ## Technologias
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-%23f89d71?logo=sass&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23f89d71?logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-%23353b35?logo=SpringBoot&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23748074?logo=css3&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-%23694640?logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23f89d71?logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23748074?logo=bootstrap&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/-styledcomponents-%23353b35?logo=styledcomponents&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-%23694640?logo=postman&logoColor=white)
+![ApacheMaven](https://img.shields.io/badge/-ApacheMaven-%23f89d71?logo=ApacheMaven&logoColor=white)
+![Npm](https://img.shields.io/badge/-npm-%23748074?logo=npm&logoColor=white)
 
 #### Actualmente me dedico a:
 
@@ -46,25 +51,17 @@ ___
 </p>
 ____
 
-
 ##### FrontEnd Development
-
 
 <p align="left>
 <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="65" height="65"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="65" height="65"/> </a>
 </p>
-
-
 ____
-
 
 ##### Backend Development
 <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 </p>
-
-
 _____
-
 
 ##### Database
 <p align="left"> 
@@ -72,10 +69,7 @@ _____
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
 <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="65" height="65"/> </a>
  </p>
-
-
 _____
-
 
  ##### Others
  <p align="left"> 
@@ -84,5 +78,4 @@ _____
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
   </p>
 
- 
 -->
