@@ -15,6 +15,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-%23694640?logo=postman&logoColor=white)
 ![ApacheMaven](https://img.shields.io/badge/-ApacheMaven-%23f89d71?logo=ApacheMaven&logoColor=white)
 ![Npm](https://img.shields.io/badge/-npm-%23748074?logo=npm&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%23353b35?logo=MySQL&logoColor=white)
+
 
 #### Actualmente me dedico a:
 
