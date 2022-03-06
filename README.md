@@ -1,8 +1,8 @@
 ### Hola, Mi nombre es Roger Jiménez 👋✨
-#### Desarrollador web junior front-end 💻 actualmente en **búsqueda activa** de empleo♨️
+#### Desarrollador Web Front End 💻 actualmente en **búsqueda activa** de empleo♨️
 ![Roger Jimenez](https://github.com/rogersaya26/rogerj-xfolio/blob/master/src/components/images/nightlife.gif)
 
-## Technologias
+## Tecnologías
 ![React](https://img.shields.io/badge/-React-%23353b35?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23694640?logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-%23f89d71?logo=java&logoColor=white)
@@ -20,9 +20,9 @@
 
 #### Actualmente me dedico a:
 
-- Reforzar conocimientos sobre el stack tecnológico React.js, Java SpringBoot y tecnologias complementarias.
-- Realizar proyectos full stack 👉🏻 para afinar habilidades.
-- Afianzar e investigar principios, patrones buenas prácticas y metodologías de desarrollo.
+- Reforzar conocimientos sobre el stack tecnológico React.js, Java SpringBoot y tecnologías complementarias.
+- Realizar proyectos full stack 👉🏻 para afinar mis habilidades.
+- Afianzar e investigar principios, patrones, buenas prácticas y metodologías de desarrollo.
 ___
 
 
